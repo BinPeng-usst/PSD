@@ -65,5 +65,3 @@ ax.set_zticklabels([],fontdict={'family' : 'Times New Roman', 'size' : 16})
 fig.colorbar(surf, shrink=0.5, aspect=5)
 
 pl.show()
-
-
